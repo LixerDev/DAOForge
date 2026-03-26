@@ -171,9 +171,6 @@
   ---
 
   *Built with ❤️ using Anchor + Solana*
-    # 🏛️ Coin
-
-  <img width="1024" height="1024" alt="Token cripto DAOForg (1)" src="https://github.com/user-attachments/assets/df0023fc-a83f-4a51-afba-f3e5fcb486cb" />
 
 
     # 🏛️ Coin
