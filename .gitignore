@@ -1,0 +1,15 @@
+target/
+  .anchor/
+  .DS_Store
+  node_modules/
+  dist/
+  build/
+  *.env
+  .env*
+  !.env.example
+  test-ledger/
+  .pnp.cjs
+  .pnp.loader.mjs
+  app/.next/
+  app/out/
+  
