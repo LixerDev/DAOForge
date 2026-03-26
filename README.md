@@ -2,6 +2,8 @@
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/006695d4-b8a0-4dae-b15f-39cc6f35c56c" />
 
+Built by LixerDev Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
+
 
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
   ![Solana](https://img.shields.io/badge/Solana-Program-purple.svg)
